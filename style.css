@@ -15,6 +15,12 @@ body {
   flex: 1;
 }
 
+.container {
+    max-width: 1000px;
+    margin: 0 auto; /* centers the container horizontally */
+    padding: 0 20px;
+}
+
 .top {
     background-color: #1b263b;
     padding: 16px 120px;
