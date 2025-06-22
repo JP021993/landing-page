@@ -20,7 +20,6 @@ body {
     padding: 16px 120px;
 }
 
-
 .header {
     display: flex; /* Makes header logo & links lay out horizontally */
 }
@@ -39,4 +38,8 @@ body {
 
 .footer {
     background-color: #1b263b;
+}
+
+.logo {
+    margin-right: auto;
 }
