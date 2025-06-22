@@ -8,6 +8,13 @@ body {
     that can be seen without scrolling */
 }
 
+.top,
+.features,
+.quote,
+.call-to-action {
+  flex: 1;
+}
+
 .top {
     background-color: #1b263b;
 }
