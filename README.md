@@ -1,1 +1,1 @@
-# landing-page
+This is my first HTML/CSS landing page project that I'm building from scratch.
