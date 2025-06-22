@@ -7,3 +7,27 @@ body {
     min-height: 100vh; /*Ensures content fills entire viewport - area
     that can be seen without scrolling */
 }
+
+.top {
+    background-color: #1b263b;
+}
+
+.header {
+
+}
+
+.features {
+
+}
+
+.quote {
+    background-color: #ECECEC;
+}
+
+.call-to-action {
+
+}
+
+.footer {
+    background-color: #1b263b;
+}
