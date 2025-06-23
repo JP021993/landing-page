@@ -90,3 +90,23 @@ body {
     color: white;
     opacity: 0.8;
 }
+
+/* Shared Button Stylings */
+
+button {
+    color: white;
+    background-color: #3882F6;
+    border-radius: 4px;
+}
+
+/* Top Button Stylings */
+
+.hero-text button {
+    border: 0px;
+}
+
+/* CTA Button Stylings */
+
+.cta-container button {
+    border: 1px solid white;
+}
