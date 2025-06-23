@@ -41,6 +41,13 @@ body {
     color: white;
 }
 
+/* Header Links Stylings */
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
 /* Features Section Styles */
 
 .features {
