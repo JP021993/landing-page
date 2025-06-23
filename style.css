@@ -89,6 +89,7 @@ a {
 .hero-text h1 {
     font-size: 48px;
     color: white;
+    margin: 0px;
 }
 
 /*Hero Paragraph Text Styling*/
@@ -127,7 +128,6 @@ button {
     max-width: 400px;
     width: 100%;
     height: auto;
-    margin: 24px 0px 0px 24px;
     border-radius: 8px;
     mix-blend-mode: screen;
 }
