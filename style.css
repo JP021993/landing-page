@@ -75,3 +75,18 @@ body {
 .logo {
     margin-right: auto;
 }
+
+/* Hero Header Text Styling*/
+
+.hero-text h1 {
+    font-size: 24px;
+    color: white;
+}
+
+/*Hero Paragraph Text Styling*/
+
+.hero-text p {
+    font-size: 8px;
+    color: white;
+    opacity: 0.8;
+}
