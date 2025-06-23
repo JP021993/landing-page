@@ -120,3 +120,13 @@ button {
 .cta-container button {
     border: 1px solid white;
 }
+
+/* Nipsey Hero Text Image Stylings*/
+
+.hero img {
+    max-width: 400px;
+    width: 100%;
+    height: auto;
+    margin: 24px;
+    border-radius: 8px;
+}
