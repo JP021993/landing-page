@@ -38,6 +38,7 @@ body {
 
 .header {
     display: flex; /* Makes header logo & links lay out horizontally */
+    color: white;
 }
 
 /* Features Section Styles */
@@ -86,7 +87,7 @@ body {
 /*Hero Paragraph Text Styling*/
 
 .hero-text p {
-    font-size: 8px;
+    font-size: 16px;
     color: white;
     opacity: 0.8;
 }
