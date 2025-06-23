@@ -96,7 +96,9 @@ body {
 button {
     color: white;
     background-color: #3882F6;
-    border-radius: 4px;
+    border-radius: 8px;
+    padding: 10px 30px;
+    font-size: 16px;
 }
 
 /* Top Button Stylings */
