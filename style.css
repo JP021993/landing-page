@@ -95,7 +95,7 @@ a {
 /*Hero Paragraph Text Styling*/
 
 .hero-text p {
-    font-size: 16px;
+    font-size: 32px;
     color: white;
     opacity: 0.8;
 }
@@ -131,4 +131,13 @@ button {
     border-radius: 8px;
     mix-blend-mode: screen;
     margin-top: 10px;
+}
+
+/* did this to get flex items to stretch the full height of the 
+flexbox and be vertically aligned with Nip's image on the right side */
+
+.hero-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
