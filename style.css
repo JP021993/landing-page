@@ -130,4 +130,5 @@ button {
     height: auto;
     border-radius: 8px;
     mix-blend-mode: screen;
+    margin-top: 10px;
 }
