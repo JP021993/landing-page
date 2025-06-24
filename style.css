@@ -140,4 +140,5 @@ flexbox and be vertically aligned with Nip's image on the right side */
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    margin-right: 12px;
 }
