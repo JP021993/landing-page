@@ -92,6 +92,10 @@ a {
     object-fit: cover;
 }
 
+.nip-toddler-dap {
+  object-position: top;
+}
+
 .features {
 }
 
