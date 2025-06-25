@@ -52,7 +52,9 @@ a {
 
 .header-nav {
     display: flex;
-    gap: 29px;
+    flex-direction: column;
+    gap: 18px;
+    align-items: flex-end;
 }
 
 /* Header Logo Image Styling */
