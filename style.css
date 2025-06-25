@@ -101,6 +101,13 @@ a {
     margin-bottom: 36px;
 }
 
+/* Header Links Stylings */
+
+.header-nav {
+    display: flex;
+    gap: 29px;
+}
+
 /* Shared Button Stylings */
 
 button {
