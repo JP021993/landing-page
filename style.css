@@ -79,8 +79,11 @@ a {
     color: #0f2c64;
 }
 
-.features {
+.feature-container {
+    display: flex;
+}
 
+.features {
 }
 
 /* Quotes Section Styles */
