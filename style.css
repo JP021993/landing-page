@@ -87,6 +87,8 @@ a {
 .feature-container img {
     border: 4px solid #0f2c64;
     border-radius: 8px;
+    width: 200px;
+    height: 200px;
 }
 
 .features {
