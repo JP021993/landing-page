@@ -81,6 +81,7 @@ a {
 
 .feature-container {
     display: flex;
+    color: #0f2c64;
 }
 
 .feature-container img {
