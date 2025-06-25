@@ -58,7 +58,10 @@ a {
 /* Header Logo Image Styling */
 
 .logo {
-    margin-right: auto;
+    margin: 0px auto 6px 0px;
+    max-width: 7%;
+    height: auto;
+    mix-blend-mode: screen;
 }
 
 /* Features Section Styles */
