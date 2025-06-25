@@ -48,6 +48,13 @@ a {
     text-decoration: none;
 }
 
+/* Header Links Stylings */
+
+.header-nav {
+    display: flex;
+    gap: 29px;
+}
+
 /* Features Section Styles */
 
 .features {
@@ -101,12 +108,6 @@ a {
     margin-bottom: 36px;
 }
 
-/* Header Links Stylings */
-
-.header-nav {
-    display: flex;
-    gap: 29px;
-}
 
 /* Shared Button Stylings */
 
