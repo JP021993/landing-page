@@ -55,6 +55,12 @@ a {
     gap: 29px;
 }
 
+/* Header Logo Image Styling */
+
+.logo {
+    margin-right: auto;
+}
+
 /* Features Section Styles */
 
 .features {
@@ -83,12 +89,6 @@ a {
 
 .hero {
     display: flex;
-}
-
-/* Logo Image Styling */
-
-.logo {
-    margin-right: auto;
 }
 
 /* Hero Header Text Styling*/
