@@ -83,6 +83,11 @@ a {
     display: flex;
 }
 
+.feature-container img {
+    border: 4px solid #0f2c64;
+    border-radius: 8px;
+}
+
 .features {
 }
 
