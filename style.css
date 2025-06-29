@@ -133,6 +133,7 @@ a {
 
 .quote-attribution {
     font-size: 20px;
+    text-align: center;
 }
 
 /* CTA Section Styles */
@@ -141,18 +142,23 @@ a {
 }
 
 .cta-container {
-    /* display: flex;
-    flex-direction: column;
-    justify-content: center; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     border-radius: 8px;
     margin: 84px;
     padding: 32px;
     background-color: #0f2c64;
+    color: white;
 }
+
+
 /* Footer Section Styles */
 
 .footer {
     background-color: #0f2c64;
+    text-align: center;
+    color: white;
 }
 
 /* Hero Section Styles*/
@@ -197,7 +203,7 @@ button {
 /* CTA Button Stylings */
 
 .cta-container button {
-    border: 1px solid white;
+    border: none;
 }
 
 /* Nipsey Hero Image Stylings*/
