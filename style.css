@@ -123,6 +123,8 @@ a {
 .quote {
     background-color: #0f2c64;
     color: white;
+    display: flex;
+    justify-content: center;
 }
 
 .main-quote {
